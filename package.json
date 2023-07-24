@@ -1,5 +1,5 @@
 {
-  "name": "hexlet-hello-world",
+  "name": "hexlet-js",
  "type": "module",
  "version": "1.0.0",
   "description": "New project",
@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Evgenii Kostin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
